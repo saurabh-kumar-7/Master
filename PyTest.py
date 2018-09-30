@@ -11,7 +11,7 @@ print ("This is my first file")
 #plt.ylabel('some numbers')
 #plt.show()
 
-my_detail = { 'Name' : { 'First' : 'Saurabh', 'Last' : 'Kumar' } , 'Age' : 30 , 'Address' : { 'Addr1' : '7611 Knox Ave S' , 'Addr2' : 'Apt 318' , 'City' : 'Richfield' , 'State':'MN' } }
+my_detail = { 'Name' : { 'First' : 'Author', 'Last' : 'Life' } , 'Age' : 30 , 'Address' : { 'Addr1' : '8888 Abc Ave S' , 'Addr2' : 'Apt 77' , 'City' : 'Abcd' , 'State':'Ab' } }
 print ("My details are " + str(my_detail) )
 
 my_detail['Address']['Country'] = 'USA'
